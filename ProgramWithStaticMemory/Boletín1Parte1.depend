@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1708105507 source:c:\users\juare\onedrive\escritorio\alvaro\ucam\asignaturas\1º\fundamentos de programaciÓn ii\boletines\boletín1parte1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<math.h>
+	<string.h>
+
+1708107906 source:c:\users\juare\onedrive\escritorio\alvaro\ucam\asignaturas\1º\fundamentos de programaciÓn ii\boletines\boletÍn 1\boletín1parte1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<math.h>
+	<string.h>
+

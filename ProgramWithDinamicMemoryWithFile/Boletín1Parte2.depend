@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1711733091 source:c:\users\juare\onedrive\escritorio\alvaro\ucam\asignaturas\1º\fundamentos de programaciÓn ii\boletines\boletÍn 1 segunda parte\boletín1parte2\main.c
+	"estructuras.h"
+	"funciones.h"
+
+1710173370 c:\users\juare\onedrive\escritorio\alvaro\ucam\asignaturas\1º\fundamentos de programaciÓn ii\boletines\boletÍn 1 segunda parte\boletín1parte2\estructuras.h
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1711733091 c:\users\juare\onedrive\escritorio\alvaro\ucam\asignaturas\1º\fundamentos de programaciÓn ii\boletines\boletÍn 1 segunda parte\boletín1parte2\funciones.h
+	"estructuras.h"
+	"funciones.c"
+
+1710018127 source:c:\users\juare\onedrive\escritorio\boletÍn 1 segunda parte\boletín1parte2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<math.h>
+	<string.h>
+
+1710176295 c:\users\juare\onedrive\escritorio\alvaro\ucam\asignaturas\1º\fundamentos de programaciÓn ii\boletines\boletÍn 1 segunda parte\boletín1parte2\funciones.c
+	"funciones.h"
+	"estructuras.h"
+

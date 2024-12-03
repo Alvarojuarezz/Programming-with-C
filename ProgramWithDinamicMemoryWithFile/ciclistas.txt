@@ -1,0 +1,22 @@
+20  
+
+Juan 2000
+Pedro 2001
+Maria 2002
+Carlos 2003
+Laura 2002
+Pablo 2001
+Ana 2001
+Miguel 2004
+Sofia 2003
+David 2001
+Lucia 2000
+Javier 2001
+Elena 2001
+Luis 2003
+Carmen 2004
+Mario 2002
+Isabel 2000
+Sergio 1999
+Lorena 1988
+Jorge 1989

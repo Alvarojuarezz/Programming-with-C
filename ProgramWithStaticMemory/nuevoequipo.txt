@@ -1,0 +1,7 @@
+equipo
+nuevo
+2
+Pedro
+Juan
+1
+RedBull
