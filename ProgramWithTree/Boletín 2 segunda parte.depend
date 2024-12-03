@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1715360669 source:c:\users\juare\onedrive\escritorio\alvaro\ucam\asignaturas\1º\fundamentos de programaciÓn ii\boletines\boletin 2 segunda parte\Árbol\boletín 2 segunda parte\arbol_pc.c
+	"arboles.h"
+	"prueba.h"
+
+1715441271 c:\users\juare\onedrive\escritorio\alvaro\ucam\asignaturas\1º\fundamentos de programaciÓn ii\boletines\boletin 2 segunda parte\Árbol\boletín 2 segunda parte\arboles.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1715360782 source:c:\users\juare\onedrive\escritorio\alvaro\ucam\asignaturas\1º\fundamentos de programaciÓn ii\boletines\boletin 2 segunda parte\Árbol\boletín 2 segunda parte\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arboles.h"
+	"prueba.h"
+	"equipo.h"
+
+1714664932 source:c:\users\juare\onedrive\escritorio\alvaro\ucam\asignaturas\1º\fundamentos de programaciÓn ii\boletines\boletin 2 segunda parte\Árbol\boletín 2 segunda parte\arbol_e.c
+	"arboles.h"
+	"equipo.h"
+
+1714664932 c:\users\juare\onedrive\escritorio\alvaro\ucam\asignaturas\1º\fundamentos de programaciÓn ii\boletines\boletin 2 segunda parte\Árbol\boletín 2 segunda parte\equipo.h
+
+1714471622 c:\users\juare\onedrive\escritorio\alvaro\ucam\asignaturas\1º\fundamentos de programaciÓn ii\boletines\boletin 2 segunda parte\Árbol\boletín 2 segunda parte\prueba.h
+
+1714664932 source:c:\users\juare\onedrive\escritorio\alvaro\ucam\asignaturas\1º\fundamentos de programaciÓn ii\boletines\boletin 2 segunda parte\Árbol\boletín 2 segunda parte\equipo.c
+	"arboles.h"
+	"equipo.h"
+
+1714472308 source:c:\users\juare\onedrive\escritorio\alvaro\ucam\asignaturas\1º\fundamentos de programaciÓn ii\boletines\boletin 2 segunda parte\Árbol\boletín 2 segunda parte\prueba.c
+	"arboles.h"
+	"prueba.h"
+

@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1714340981 source:c:\users\juare\onedrive\escritorio\alvaro\ucam\asignaturas\1º\fundamentos de programaciÓn ii\boletines\boletÍn 2 primera parte\boletín 2 primera parte\lista_e.c
+	"listas.h"
+
+1714330909 c:\users\juare\onedrive\escritorio\alvaro\ucam\asignaturas\1º\fundamentos de programaciÓn ii\boletines\boletÍn 2 primera parte\boletín 2 primera parte\listas.h
+	"definiciones.h"
+
+1714327420 c:\users\juare\onedrive\escritorio\alvaro\ucam\asignaturas\1º\fundamentos de programaciÓn ii\boletines\boletÍn 2 primera parte\boletín 2 primera parte\definiciones.h
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1714341626 source:c:\users\juare\onedrive\escritorio\alvaro\ucam\asignaturas\1º\fundamentos de programaciÓn ii\boletines\boletÍn 2 primera parte\boletín 2 primera parte\main.c
+	<stdio.h>
+	<stdlib.h>
+	"definiciones.h"
+	"listas.h"
+
+1714340785 source:c:\users\juare\onedrive\escritorio\alvaro\ucam\asignaturas\1º\fundamentos de programaciÓn ii\boletines\boletÍn 2 primera parte\boletín 2 primera parte\lista_pc.c
+	"listas.h"
+
+1714341294 source:c:\users\juare\onedrive\escritorio\alvaro\ucam\asignaturas\1º\fundamentos de programaciÓn ii\boletines\boletÍn 2 primera parte\boletín 2 primera parte\funciones.c
+	"definiciones.h"
+	"funciones.h"
+	"listas.h"
+
+1714327621 c:\users\juare\onedrive\escritorio\alvaro\ucam\asignaturas\1º\fundamentos de programaciÓn ii\boletines\boletÍn 2 primera parte\boletín 2 primera parte\funciones.h
+	"definiciones.h"
+
